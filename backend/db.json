@@ -1,19 +1,19 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Caeta BIC Preta",
+      "author": 5.89
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "notebook Mac",
+      "price": 12000.89 
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20",
+      "price": 5000.4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
